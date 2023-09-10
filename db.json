@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Mohak",
+      "lastName": "Maheshwari",
+      "email": "mohak@gmail.com",
+      "dob": "2000-05-11T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "salary": 800000,
+      "age": 23,
+      "id": 1
+    },
+    {
+      "firstName": "Divyansh",
+      "lastName": "Tak",
+      "email": "dv@gmail.com",
+      "dob": "2000-01-12T18:30:00.000Z",
+      "gender": "male",
+      "education": "",
+      "salary": 900000,
+      "age": 23,
+      "id": 2
+    }
+  ]
+}
